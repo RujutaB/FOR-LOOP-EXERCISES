@@ -1,3 +1,5 @@
+//DISPLAY N TERMS OF NATURAL NUMBERS AND THEIR SUM
+
 #include <iostream>
 
 using namespace std;
